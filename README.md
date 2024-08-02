@@ -3,7 +3,7 @@
 <img align="right" src="https://i.pinimg.com/564x/ae/53/c5/ae53c592cc4fd3632ef43c4b5f963d57.jpg" alt="coding" width="400">
 - 🌱 I’m currently  **collage student at IDN polytechnic**
 
-- 💬 Ask me about **WEB ,MEARN**
+- 💬 Ask me about **WEB ,MERN**
 
 - 📫 How to reach me **azhary948@gmail.com**
 
